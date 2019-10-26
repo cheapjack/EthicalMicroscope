@@ -1,4 +1,5 @@
-## Ethical Microscope
+
+# Ethical Microscope
 
 <img src="images/prototype1.jpg" width="400">
 <img src="images/microfold_2.jpg" width="400">
@@ -9,7 +10,7 @@ DIY Hackteria remix of the [OpenFlexure Microscope](https://github.com/rwb27/ope
 
 I also modified a piZero camera with a 3D printed case included here so you can connect to a [Foldscope](https://www.foldscope.com)
 
-### Ethical
+### Ethics
 
 Why ethical? In the first instance it is open source and freely available and is meant to help people access basic microscopy.
 
@@ -19,7 +20,7 @@ The micro aquarium is still a work in progress.
 
 ### Images
 
-<img src="images/cab1.jpg" width="400">
+<img src="images/cab1.png" width="400">
 
 ### Build Guides
 
