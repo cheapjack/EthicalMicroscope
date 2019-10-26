@@ -1,5 +1,4 @@
-
-# Ethical Microscope
+# Ethical Microscope
 
 <img src="images/prototype1.jpg" width="400">
 <img src="images/microfold_2.jpg" width="400">
