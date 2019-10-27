@@ -12,7 +12,7 @@ translate([0,0,30])rotate([180,0,0])camHolder();
 
 module piOpticsAssembly(){
     difference(){
-        import("builds/optics_modified_partsandcrafts.stl", convexity= 5);
+        import("optics_modified_partsandcrafts.stl", convexity= 5);
         rotate([0,0,45])translate([-1,12,-9])cube([12,2,3], center=true);
     }
 }

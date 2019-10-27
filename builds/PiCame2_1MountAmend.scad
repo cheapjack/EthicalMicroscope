@@ -14,13 +14,13 @@ mountBack();
 
 module piOpticsAssembly(){
     difference(){
-        import("builds/optics_modified_partsandcrafts.stl", convexity= 5);
+        import("optics_modified_partsandcrafts.stl", convexity= 5);
         rotate([0,0,45])translate([-1,12,-9])cube([12,2,3], center=true);
     }
 }
 
 module piCamCover(){
-    import("../builds/picamera_2_cover_modified.stl", convexity = 50);
+    import("picamera_2_cover_modified.stl", convexity = 50);
 }
 
 module extraPin(height,hole_diameter,outer_width){
