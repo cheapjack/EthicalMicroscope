@@ -2,10 +2,11 @@
 
 <img src="images/prototype1.jpg" width="400">
 <img src="images/microfold_2.jpg" width="400">
+<img src="images/all_the_parts.jpeg" width="400">
 <img src="images/maker_montage_2019-07-01.jpg" width="400">
 
 
-DIY Hackteria remix of the [OpenFlexure Microscope](https://github.com/rwb27/openflexure_microscope) used for a clubbiomed Twitch stream and review-by-making of popular DIY microscopes. The RPi camera to twitch function uses [MakeSpaceLive](https://github.com/DynamicDevices/makespacelive) which Alex Lennon and Matt at [DoES Liverpool](http://doesliverpool.com) kindly made to help watch making live and share across a federation of maker spaces.
+DIY remix of [Public Labs version of the Simple Hackteria microscope](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) following the [Public Lab Build Guide](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) while looking lovingly at the [OpenFlexure Microscope project](https://github.com/rwb27/openflexure_microscope). We aim to use it for a popup microscopic Twitch stream while doing a review-by-making of popular DIY microscopes. The RPi camera to twitch function uses [MakeSpaceLive](https://github.com/DynamicDevices/makespacelive) which Alex Lennon and Matt at [DoES Liverpool](http://doesliverpool.com) kindly made to help watch making live and share across a federation of maker spaces.
 
 I also modified a piZero camera with a 3D printed case included here so you can connect to a [Foldscope](https://www.foldscope.com)
 
