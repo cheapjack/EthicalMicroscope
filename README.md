@@ -1,14 +1,10 @@
 # Ethical Microscope
 
-<img src="images/prototype1.jpg" width="400">
-<img src="images/microfold_2.jpg" width="400">
-<img src="images/all_the_parts.jpeg" width="400">
-<img src="images/maker_montage_2019-07-01.jpg" width="400">
+DIY remix of [Public Labs version of the Simple Hackteria microscope](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) following the [Public Lab Build Guide](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) while looking lovingly at the [OpenFlexure Microscope project](https://github.com/rwb27/openflexure_microscope). Makes a pop-up microscopic Twitch stream with RPi camera using [MakeSpaceLive](https://github.com/DynamicDevices/makespacelive) by Alex Lennon and Matt Croughan at [DoES Liverpool](http://doesliverpool.com) to share live video and 3Dprinter progress across a federation of makerspaces.
 
+Also includes a piZero camera with 3D printed case compatible with a [Foldscope](https://www.foldscope.com)
 
-DIY remix of [Public Labs version of the Simple Hackteria microscope](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) following the [Public Lab Build Guide](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) while looking lovingly at the [OpenFlexure Microscope project](https://github.com/rwb27/openflexure_microscope). We aim to use it for a popup microscopic Twitch stream while doing a review-by-making of popular DIY microscopes. The RPi camera to twitch function uses [MakeSpaceLive](https://github.com/DynamicDevices/makespacelive) which Alex Lennon and Matt at [DoES Liverpool](http://doesliverpool.com) kindly made to help watch making live and share across a federation of maker spaces.
-
-I also modified a piZero camera with a 3D printed case included here so you can connect to a [Foldscope](https://www.foldscope.com)
+![Ethical Microscope Build Portrait & Components image](images/EthicalMicroscopeMontage.png)
 
 ### Ethics
 
@@ -28,6 +24,10 @@ Map out the energy toxicity matrix so we trace the complete carbon cost of your 
 ### Images
 
 <img src="images/cab1.png" width="400">
+<img src="images/prototype1.jpg" width="400">
+<img src="images/microfold_2.jpg" width="400">
+<img src="images/all_the_parts.jpeg" width="400">
+<img src="images/maker_montage_2019-07-01.jpg" width="400">
 
 ### Build Guides
 
