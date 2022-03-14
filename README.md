@@ -1,6 +1,6 @@
 # Ethical Microscope
 
-DIY remix of [Public Labs version of the Simple Hackteria microscope](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) following the [Public Lab Build Guide](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) while looking lovingly at the [OpenFlexure Microscope project](https://github.com/rwb27/openflexure_microscope). Makes a pop-up microscopic Twitch stream with RPi camera using [MakeSpaceLive](https://github.com/DynamicDevices/makespacelive) by Alex Lennon and Matt Croughan at [DoES Liverpool](http://doesliverpool.com) to share live video and 3Dprinter progress across a federation of makerspaces.
+DIY remix of [Public Labs version of the Simple Hackteria microscope](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) following the [Public Lab Build Guide](https://publiclab.org/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) while looking lovingly at the [OpenFlexure Microscope project](https://github.com/rwb27/openflexure_microscope). Makes a pop-up microscopic Twitch stream using a Raspberry Pi and camera and  [MakeSpaceLive](https://github.com/DynamicDevices/makespacelive) RPi software by Alex Lennon and Matt Croughan at [DoES Liverpool](http://doesliverpool.com) to share live video and 3Dprinter progress across a federation of makerspaces.
 
 Also includes a piZero camera with 3D printed case compatible with a [Foldscope](https://www.foldscope.com)
 
@@ -8,11 +8,9 @@ Also includes a piZero camera with 3D printed case compatible with a [Foldscope]
 
 ### Ethics
 
-Why ethical? In the first instance it is open source and freely available and is meant to help people access basic microscopy.
+Why ethical? It’s open source and freely available and is meant to help people, especially makers, access basic microscopy using lasercut acrylic, standard microscope optics available on eBay and 3D printed PLA. Numerous open source designs for microscopy exist but here a barebones, minimum effort and low cost approach brings together the Hackteria and Publiclab designs and makes it compatible with a foldscope and affordable for classroom use.
 
-However our main aim is to develop a microfluidic aquarium to add-on to the stage so that microorganisms don't have to dehydrate and die on the slide which is common practice only to provoke thinking about how we work with and learn from microorganisms when we observe them and what that might mean in terms of ethics and waste.
-
-The micro aquarium is still a work in progress.
+It was also designed as part of a microfluidic aquarium add-on to the stage so that microorganisms don't have to dehydrate and die on the slide. This is a prompt to provoke thinking about how we work with and learn from microorganisms when we observe them, and what that might mean in terms of ethics and waste.
 
 ## MET Matrix
 
